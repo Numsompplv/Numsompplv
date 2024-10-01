@@ -1,5 +1,5 @@
 # Hi there!
-Hi There!<br>I'm Numsomp, a cs student from Eger, Hungary.<br><br>
+I'm Numsomp, a cs student from Eger, Hungary.<br><br>
 
 
 ## 🌐 Socials:
